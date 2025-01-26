@@ -1,0 +1,147 @@
+
+  /* General Styles */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f9f9f9;
+  }
+  
+  /* Container */
+  .containers {
+    width: 400px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Headings and Paragraphs */
+  h1 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  /* Form */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  label {
+    font-size: 14px;
+    color: #333;
+    text-align: left;
+  }
+  
+  input {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  input:focus {
+    border-color: #333;
+  }
+  
+  /* Login Button */
+  button {
+    padding: 10px;
+    font-size: 14px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  
+  /* Registration Link */
+  .registration-link {
+    display: block;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .registration-link:hover {
+    text-decoration: underline;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background: #ffffff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  form label {
+    display: block;
+    margin: 10px 0 5px;
+    text-align: left;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #99a6f6;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  form button {
+    background-color:dodgerblue;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+  }
+  
+  form button:hover {
+    background-color: #555;
+  }
+    
